@@ -35,5 +35,8 @@ pip install selenium
 pip install traceback
 pip install requests
 ```
-自行配置 火星船票注册系统无界面.ini 的信息
-邮箱如何配置 自行百度
+自行配置 火星船票注册系统无界面.ini 的信息  
+邮箱如何配置 自行百度  
+```
+start.py
+```
