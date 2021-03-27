@@ -24,6 +24,16 @@ start.py
 
 ## 无界面式
 
-注册完毕后，直接通过python的邮箱程序为客户发送邮箱  
+注册完毕后，直接通过python的邮箱程序为客户发送邮箱（附带电子票图片）
 发送人的邮箱 需要自行在QQ邮箱里配置 POP3/SMTP 并获得密钥
 
+使用方法：
+```
+cd 无界面式
+pip install configparser
+pip install selenium
+pip install traceback
+pip install requests
+```
+自行配置 火星船票注册系统无界面.ini 的信息
+邮箱如何配置 自行百度
