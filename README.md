@@ -17,6 +17,9 @@ pip install selenium
 pip install configparser
 ```
 自行配置 火星船票注册系统.ini 的信息
+```
+start.py
+```
 
 ## 无界面式
 
