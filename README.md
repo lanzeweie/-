@@ -13,6 +13,7 @@ QQ邮箱一键登录暂未写出来，所以需要QQ后台保持登录，将自�
 cd 界面式
 pip install selenium
 pip install configparser
+pip install time
 ```
 自行配置 火星船票注册系统.ini 的信息
 ```
@@ -48,3 +49,13 @@ start.py
 小明(2)  
 
 使用方法
+```
+cd 循环注册
+pip install configparser
+pip install selenium
+pip install time
+```
+自行配置 火星船票重复注册系统.ini 的信息
+```
+start.py
+```
