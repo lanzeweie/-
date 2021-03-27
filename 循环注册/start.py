@@ -21,7 +21,7 @@ bianma = int(cf.get("配置","邮政编码"))
 Email = cf.get("配置","邮箱")
 
 chromeOptions = webdriver.ChromeOptions()
-#chromeOptions.add_argument('--headless')
+chromeOptions.add_argument('--headless')
 driver = webdriver.Chrome(chrome_options=chromeOptions)
 
 
