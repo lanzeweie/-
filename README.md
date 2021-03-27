@@ -59,3 +59,4 @@ pip install time
 ```
 start.py
 ```
+大概12s可以重复注册3次
