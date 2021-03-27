@@ -20,6 +20,7 @@ pip install configparser
 ```
 start.py
 ```
+可以支持双人
 
 ## 无界面式
 
